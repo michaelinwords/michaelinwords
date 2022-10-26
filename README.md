@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelinwords
-- 👀 I’m interested in creating the future of language and education technology, building tools that further access, deepen learning, and connect language communities.
-- 🌱 I’m currently learning about ML (machine learning) and NLP (natural language processing), how computers interface with human language.
-- 💞️ I’m looking to collaborate on projects with a clear vision (especially service-oriented) and which improve society - I'm interested in a lot (including Unity game dev)!
+- 👀 I’m interested in creating the future of language and education technology, especially building tools that further access, deepen learning, and connect communities.
+- 🌱 I’m currently learning about ML (machine learning) and NLP (natural language processing), how computers interface with human language.  Additionally, I'm studying blockchain programming, focused on Solidity smart contracts and building dapps (decentralised apps).
+- 💞️ I’m looking to collaborate on projects with a clear vision (especially service-oriented) and which improve society
 - 📫 How to reach me: email through michaelinwords@gmail.com or LinkedIn: linkedin.com/in/amanimichael/...
 
 <!---
